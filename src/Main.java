@@ -82,4 +82,5 @@ public class Main {
             return -1;
     }
 
+// xây dựng giải thuật tìm kiếm tuyến tính và nhị phân trên 1 Array kiểu dữ liệu Generic
 }
